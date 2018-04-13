@@ -1,3 +1,0 @@
-/home/itpc-05/Документы/RK2/_build/CMakeFiles/rebuild_cache.dir
-/home/itpc-05/Документы/RK2/_build/CMakeFiles/edit_cache.dir
-/home/itpc-05/Документы/RK2/_build/CMakeFiles/demo.dir
